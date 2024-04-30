@@ -1,7 +1,7 @@
-# Welcome to streamlit
+# gfgh
 
-This is the app you get when you run `streamlit hello`, extracted as its own app.
+A new Flutter project.
 
-Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
+## Getting Started
 
-Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
+FlutterFlow projects are built to run on the Flutter _stable_ release.
